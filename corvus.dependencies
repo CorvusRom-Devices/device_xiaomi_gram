@@ -12,9 +12,9 @@
     "remote": "github"
   },
   {
-    "repository": "PeacE-Boi/kernel_xiaomi_sm7125",
+    "repository": "ArrowOS-Devices/android_kernel_xiaomi_sm6250",
     "target_path": "kernel/xiaomi/sm7125",
-    "branch": "flos",
+    "branch": "arrow-11.0",
     "remote": "github"
   },
   {
